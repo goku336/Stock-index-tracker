@@ -1,0 +1,11 @@
+symbol,company,price,shares,market_cap,weight_%,event,index_level,snapshot,date
+RELIANCE,Reliance Industries,2850.0,500,1425000.0,30.03%,None,4746.0,Before Split,2026-04-02
+TCS,Tata Consultancy Svcs,3920.0,300,1176000.0,24.78%,None,4746.0,Before Split,2026-04-02
+HDFCBANK,HDFC Bank,1640.0,700,1148000.0,24.19%,None,4746.0,Before Split,2026-04-02
+INFY,Infosys,1480.0,400,592000.0,12.47%,None,4746.0,Before Split,2026-04-02
+ITC,ITC Limited,450.0,900,405000.0,8.53%,None,4746.0,Before Split,2026-04-02
+RELIANCE,Reliance Industries,1425.0,1000,1425000.0,30.03%,Reliance 2-for-1 stock split,4746.0,After Split,2026-04-02
+TCS,Tata Consultancy Svcs,3920.0,300,1176000.0,24.78%,Reliance 2-for-1 stock split,4746.0,After Split,2026-04-02
+HDFCBANK,HDFC Bank,1640.0,700,1148000.0,24.19%,Reliance 2-for-1 stock split,4746.0,After Split,2026-04-02
+INFY,Infosys,1480.0,400,592000.0,12.47%,Reliance 2-for-1 stock split,4746.0,After Split,2026-04-02
+ITC,ITC Limited,450.0,900,405000.0,8.53%,Reliance 2-for-1 stock split,4746.0,After Split,2026-04-02
